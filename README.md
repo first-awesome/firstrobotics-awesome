@@ -19,7 +19,7 @@ Awesome-list for FIRST Robotics team- scouting apps, score trackers, funding sou
 * [FRC Q-A System](https://frclinks.com/qa) - Not a forum proper, this official system allows teams to ask questions about the Game Manual rules to be officially answered. Teams get one login through TIMS.
 
 ## Official FIRST Systems
-* [TIMS - Team Information Management System](https://frclinks.com/tims) - Where teams go to register, add members and coaches, designate who can sumbit Chairman's and Safety Animation Awards, and access free product keys for software in the *Virtual Kit of Parts*. [Helpful slides from Team 125 on the student/parent side of registration](http://nutrons.com/wp-content/uploads/2016/10/How-to-Navigate-STIMS-1.pdf).
+* [TIMS - Team Information Management System](http://frclinks.com/tims) - Where teams go to register, add members and coaches, designate who can sumbit Chairman's and Safety Animation Awards, and access free product keys for software in the *Virtual Kit of Parts*. [Helpful slides from Team 125 on the student/parent side of registration](http://nutrons.com/wp-content/uploads/2016/10/How-to-Navigate-STIMS-1.pdf).
 
 ## Parts
 * [AndyMark](https://andymark.com) - Makes several of the approved motors, retails general electronic/robotics parts as well as being the official source to buy game elements (like gears and fuel), and your RoboRIO.
