@@ -1,10 +1,8 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+*This file was very lightly edited from the main awesome-lists project, where it was under the CC0 license.*
 
-This file was very lightly edited from the main awesome-lists project, where it was under the CC0 license.
-
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
+**This repository is released into the public domain under the terms of the [Unlicense](LICENSE). By making a contribution of any sort (PR, issue, wiki, etc.) to this repository, you release it under that license and waive all copyright interest. This repository is designed to be a community resource; accordingly, we have selected that license for maximum usability.**
 
 ## Table of Contents
 
@@ -35,7 +33,7 @@ Thank you for your suggestions!
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
-You'll need a [GitHub account](https://github.com/join)! (your code team may already have one)
+You'll need a [GitHub account](https://github.com/join)! *(your code team may already have one)*
 
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
 2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
@@ -46,6 +44,6 @@ You'll need a [GitHub account](https://github.com/join)! (your code team may alr
 
 ## Updating your Pull Request
 
-Sometimes, I will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+Sometimes, we may will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-list guidelines.
 
 [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
