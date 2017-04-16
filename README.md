@@ -36,4 +36,4 @@ Awesome-list for FIRST Robotics team- scouting apps, score trackers, funding sou
 
 *Created by [@bithakr](https://github.com/bithakr) and released under the [Unlicense](LICENSE). If you would like to contribute, please read the [contribution guidelines](contributing.md). Thanks and happy hacking!*
 
-*FIRST is a registered trademark of *For the Inspiration and Recognition of Science and Technology*, a New Hampshire 501(c)(3) nonprofit corporation. VEX and VEX Pro are registered trademarks of Innovation First International. LabView, roboRIO, and NI for FRC and all trademarks of National Instrument Corporation. This list is completely unofficial and has not been endorsed by any of the above.*
+*FIRST is a registered trademark of *For the Inspiration and Recognition of Science and Technology*, the great international organization that makes these programs possible. This list is completely unofficial and has not been endorsed by FIRST.*
