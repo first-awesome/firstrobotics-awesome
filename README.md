@@ -12,7 +12,7 @@ Awesome-list for FIRST Robotics team- scouting apps, score trackers, funding sou
 
 ## Data
 * [The Blue Alliance](https://thebluealliance.com) - Must-use for any FRC team. Even data, match feeds, team info, photos, and links, and district ranking for all time. GameDay feature allows you to multiplex competition livestreams. *Android, Web, and build-it-yourself iOS support.*
-* [frc.divisions.co](https://frc.divisions.com) - App by @eforbes to facilitate pre-scouting for FIRST Championship. Shows stats for Houston and St. Louis divisions and sends text/email notifications when divisions are released. *Android, Web.*
+* [frc.divisions.co](https://frc.divisions.co) - App by @eforbes to facilitate pre-scouting for FIRST Championship. Shows stats for Houston and St. Louis divisions and sends text/email notifications when divisions are released. *Android, Web.*
 
 ## Forums
 * [Chief Delphi](https://chiefdelphi.com) - The mother of all FIRST Robotics forums - FRC, FTC, and VEX stuff. Where many teams share their designs and CAD models.
