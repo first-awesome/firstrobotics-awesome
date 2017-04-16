@@ -25,6 +25,7 @@ Awesome-list for FIRST Robotics team- scouting apps, score trackers, funding sou
 
 ## Parts
 * [AndyMark](https://andymark.com) - Makes several of the approved motors, retails general electronic/robotics parts as well as being the official source to buy game elements (like gears and fuel), and your RoboRIO.
+* [Ladyada's Samples Guide](http://www.ladyada.net/library/procure/samples.html) - A slightly out-of-date resource on which electronics manufacturers offer free samples and under what conditions.
 
 ## Miscellaneous
 * [frclinks.com](http://frclinks.com) - Shortlinks for most FIRST and TBA sites and pages. Mainpage has table of different links you can use.
